@@ -1,6 +1,7 @@
 # Conway's Game of Life in Julia Language 
 
 License: GPLv3
+
 Date: 2016-03-30
 
 #Usage 
